@@ -12,7 +12,7 @@
    bottom: 0;
    width: 100%;
 /*      background-color: #343a40;
- */      color: white;
+ */      color: black;
    text-align: center;
  background-image:  linear-gradient(to bottom right, white, black, grey);
 }
