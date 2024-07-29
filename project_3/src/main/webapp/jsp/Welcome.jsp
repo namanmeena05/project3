@@ -32,6 +32,7 @@ body {
 		<center>
 			<h3 style="padding-top: 19%; color: black;">
 				<b class="cl">Welcome To Online Dark Era</b>
+				<b>msg updated</b>
 			</h3>
 		</center>
 	</div>
