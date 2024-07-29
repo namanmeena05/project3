@@ -31,7 +31,8 @@ body {
 	<div class="text-cs1">
 		<center>
 			<h3 style="padding-top: 19%; color: black;">
-				<b class="cl">Welcome To Online Result System</b>
+				<b class="cl">Welcome To Online Dark Era</b>
+				<b>msg updated</b>
 			</h3>
 		</center>
 	</div>
