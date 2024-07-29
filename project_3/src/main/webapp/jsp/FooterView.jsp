@@ -12,14 +12,14 @@
    bottom: 0;
    width: 100%;
 /*      background-color: #343a40;
- */      color: white;
+ */      color: rgb(229, 10, 10);
    text-align: center;
  background-image:  linear-gradient(to bottom right, white, black, grey);
 }
-
+// i have chnged 
 </style>
 </head>
-<body >
+<body>
 <div class="footer">
 <center>
 
