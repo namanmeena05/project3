@@ -16,7 +16,7 @@
    text-align: center;
  background-image:  linear-gradient(to bottom right, white, black, grey);
 }
-// i have chnged 
+// changes done in this 2nd time
 </style>
 </head>
 <body>
